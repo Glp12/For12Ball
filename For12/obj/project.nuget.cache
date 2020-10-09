@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gZG91jmuAnY52cJkCXYrlcwvL7MX9TRGM1UOSX5cI15MOfOH2piNKWkAqFp/v1NREMb/czJGe9ZS+b6dguooNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glebp\\source\\repos\\For12\\For12\\For12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glebp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\glebp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

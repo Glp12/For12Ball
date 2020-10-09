@@ -1,0 +1,16 @@
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\TestFor12.dll
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\TestFor12.pdb
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\For12.dll
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\For12.pdb
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\glebp\source\repos\For12\TestFor12\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\glebp\source\repos\For12\TestFor12\obj\Debug\TestFor12.csprojAssemblyReference.cache
+C:\Users\glebp\source\repos\For12\TestFor12\obj\Debug\TestFor12.csproj.CoreCompileInputs.cache
+C:\Users\glebp\source\repos\For12\TestFor12\obj\Debug\TestFor12.csproj.CopyComplete
+C:\Users\glebp\source\repos\For12\TestFor12\obj\Debug\TestFor12.dll
+C:\Users\glebp\source\repos\For12\TestFor12\obj\Debug\TestFor12.pdb

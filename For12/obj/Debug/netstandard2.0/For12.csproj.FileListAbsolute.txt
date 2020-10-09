@@ -1,0 +1,9 @@
+C:\Users\glebp\source\repos\For12\For12\bin\Debug\netstandard2.0\For12.deps.json
+C:\Users\glebp\source\repos\For12\For12\bin\Debug\netstandard2.0\For12.dll
+C:\Users\glebp\source\repos\For12\For12\bin\Debug\netstandard2.0\For12.pdb
+C:\Users\glebp\source\repos\For12\For12\obj\Debug\netstandard2.0\For12.csprojAssemblyReference.cache
+C:\Users\glebp\source\repos\For12\For12\obj\Debug\netstandard2.0\For12.AssemblyInfoInputs.cache
+C:\Users\glebp\source\repos\For12\For12\obj\Debug\netstandard2.0\For12.AssemblyInfo.cs
+C:\Users\glebp\source\repos\For12\For12\obj\Debug\netstandard2.0\For12.csproj.CoreCompileInputs.cache
+C:\Users\glebp\source\repos\For12\For12\obj\Debug\netstandard2.0\For12.dll
+C:\Users\glebp\source\repos\For12\For12\obj\Debug\netstandard2.0\For12.pdb
